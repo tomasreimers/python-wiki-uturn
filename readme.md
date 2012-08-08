@@ -70,7 +70,7 @@ $wgGroupPermissions['sysop']['apihighlimits'] = true;
 
 UTurn wouldn't be possible if it weren't for the following libraries:
 
-* simplemediawiki.py: critical in connecting to the mediawiki API - GNU Licensed
+* simplemediawiki.py: critical in connecting to the mediawiki API - LGPLv2.1+ Licensed
 * kitchen: used by simplemediawiki - LGPLv2+
 
 ## License
