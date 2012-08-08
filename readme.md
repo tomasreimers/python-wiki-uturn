@@ -38,7 +38,7 @@ Once it finished the program closes rather unceremoniously, however in every aff
 
 ## Installation
 
-1. Get [python](http://www.python.org).
+1. Get [python](http://www.python.org) (2.7).
 
 2. Download UTurn to YOUR local machine.
 
