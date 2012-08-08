@@ -34,7 +34,7 @@ Once it finished the program closes rather unceremoniously, however in every aff
 
 *Note: UTurn does modify user accounts nor does it delete pages which didn't exist before the date (rather it removes all their content).*
 
-*Also Note: Because UTurn does not delete pages or edit revision history, UTurns can be UTurned. I.E. If you UTurn to a date, and then realize you actually didn't want to do that UTurn, simply UTurn to the hour before you UTurned.**
+*Also Note: Because UTurn does not delete pages or edit revision history, UTurns can be UTurned. I.E. If you UTurn to a date, and then realize you actually didn't want to do that UTurn, simply UTurn to the hour before you UTurned.*
 
 ## Installation
 
