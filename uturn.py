@@ -45,6 +45,7 @@ if confirmation.lower() != "y":
 
 # Function to get all pages
 def getAllResults(fromKey = ''):
+    # No need to provide apnamespace b/c by default it only lists the main namespace
     results = wiki.call({'action': 'query', 'list': 'allpages', 'aplimit': '500', 'apfrom': fromKey})
     resultsPages = results['query']['allpages']
     # Continue as needed

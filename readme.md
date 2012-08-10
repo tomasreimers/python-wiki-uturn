@@ -32,9 +32,11 @@ At that point it will proceed to revert all the pages, printing the title of eac
 
 Once it finished the program closes rather unceremoniously, however in every affected page you should see the newest revision is made by the sysop account and has the summary `UTurn to XYZ`, where `XYZ` is the timestamp it reverted to.
 
-*Note: UTurn does modify user accounts nor does it delete pages which didn't exist before the date (rather it removes all their content).*
+*Note: UTurn only affects pages in the main namespace (e.g. no special pages or talk pages).*
 
-*Also Note: Because UTurn does not delete pages or edit revision history, UTurns can be UTurned. I.E. If you UTurn to a date, and then realize you actually didn't want to do that UTurn, simply UTurn to the hour before you UTurned.*
+*Also Note: UTurn does modify user accounts nor does it delete pages which didn't exist before the date (rather it removes all their content).*
+
+*Lastly Note: Because UTurn does not delete pages or edit revision history, UTurns can be UTurned. I.E. If you UTurn to a date, and then realize you actually didn't want to do that UTurn, simply UTurn to the hour before you UTurned.*
 
 ## Installation
 
