@@ -1,3 +1,5 @@
+***NOTE:* This was the original version of UTurn; since, it has been ported to a [MediaWiki extension](https://github.com/berkmancenter/wiki-uturn). Please use that version instead.**
+
 # UTurn
 
 ## Version
